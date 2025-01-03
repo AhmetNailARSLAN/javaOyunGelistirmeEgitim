@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "666611706257",
+    "firebase_url": "https://oyungelistirme-a8413-default-rtdb.firebaseio.com",
+    "project_id": "oyungelistirme-a8413",
+    "storage_bucket": "oyungelistirme-a8413.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666611706257:android:f3ab4aa11e8427c9c51230",
+        "android_client_info": {
+          "package_name": "com.example.oyungelistirmeegitim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBelTRgQ6znHmBscB2KuU4O4LiYQht2bX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
